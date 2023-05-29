@@ -1,0 +1,1 @@
+Name,x,y,z,mass,radius,velocityX,velocityY,velocityZ
